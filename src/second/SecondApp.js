@@ -1,7 +1,7 @@
 import React from "react"; //вставили реакт компонент
 import UlComponent from "./UlComponent"; //вставляем наш юлкомпонент
 
-const array = ['fistElement', 'secondElement', 'thirdElement']; // создание массива с элементами ввиде строк
+const array = ['firstElement', 'secondElement', 'thirdElement']; // создание массива с элементами ввиде строк
 
 const SecondApp = () => (
     // Ul - menu (html) // values - значения

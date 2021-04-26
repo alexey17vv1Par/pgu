@@ -1,7 +1,7 @@
 import React, {useState} from "react";
 import UlComponent from "./UlComponent";
 
-const array = ['fistElement', 'secondElement', 'thirdElement', 'fourthElement', 'fifthElement'];
+const array = ['firstElement', 'secondElement', 'thirdElement', 'fourthElement', 'fifthElement'];
 
 const ThirdApp = () => {
     const [searchString, setSearchString] = useState('')
